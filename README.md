@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @eugeniopaglino. I am a doctoral student in demography and sociology and an MA candidate in statistics and data science at the University of Pennsylvania
+- 👋 Hi, I’m @eugeniopaglino. I am a postdoctoral researcher and data scientist at the Helsinki Institute for Demography and Population Health (University of Helsinki).
 - 👀 I’m interested in Bayesian statistics, computational social sciences, data visualisations, and GIS. I love maps!
-- 💞️ I’m looking to collaborate on computational social science projects, visualisation projects, or machine learning applications
-- 📫 My email is paglino@sas.upenn.edu
+- 💞️ I’m looking to collaborate on projects around demographic methods, computational social sciences, visualisation, or machine learning applications for population studies
+- 📫 My email is eugenio.paglino@helsinki.fi
 
 <!---
 eugeniopaglino/eugeniopaglino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
